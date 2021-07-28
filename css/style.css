@@ -1,0 +1,23 @@
+.bg-nike {
+    background-color: #fff9f4;
+}
+.nike-color-2 {
+    color: tomato;
+}
+.btn-nike {
+    padding: 18px 34px;
+    color: white;
+    background-color: #3543BC;
+    border-radius: 10px;
+    font-size: 16px;
+    line-height: 24px;
+    text-decoration: none;
+    align-items: center;
+}
+.btn-nike:hover {
+    color: white;
+}
+.btn-nike img {
+    width: 18px;
+    height: 18px;
+}
